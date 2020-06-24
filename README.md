@@ -1,4 +1,4 @@
-DOES NOT WORK. WILL FIX SOON.
+README is inaccurate. will fix later.
 
 # Discord Always Online
 
