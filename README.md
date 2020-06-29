@@ -13,5 +13,4 @@ This is a python script which will keep you online as long as your computer is o
 - You can change the number of minutes it takes before triggering in the variable: "minutes_to_click" in `always_online.py`. I recommend keeping this number below 2 minutes.
 
 
-> ###### Other Notes:
-This is probably not a great way to do this and I know that. I might work more on it in the future to optimize it.
+> ###### Other Notes: This is probably not a great way to do this and I know that. I might work more on it in the future to optimize it.
