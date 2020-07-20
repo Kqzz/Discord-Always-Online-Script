@@ -1,5 +1,3 @@
-README is inaccurate. will fix later.
-
 # Discord Always Online
 
 This is a python script which will keep you online as long as your computer is on and this script is running. It will click on a position which you define every 2 minutes (by default) keeping you online on Discord or another app. I don't know how well it will work on other applications but I can confirm it works pretty well on Discord.
